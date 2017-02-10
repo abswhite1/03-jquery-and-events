@@ -90,4 +90,4 @@ articleView.populateFilters();
 articleView.handleAuthorFilter();
 articleView.handleCategoryFilter();
 articleView.handleMainNav();
-// articleView.setTeasers();
+articleView.setTeasers();
